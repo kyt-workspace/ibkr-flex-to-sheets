@@ -1,0 +1,8 @@
+# Personal trade data - never commit your own exports
+*.xml
+*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
